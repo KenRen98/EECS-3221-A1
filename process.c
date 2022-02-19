@@ -6,11 +6,11 @@
 #include <string.h>
 
 /* 
-Family Name: Ren
-Given Name: Dexuan
-Student Number: 215751332
+Family Name: 
+Given Name: 
+Student Number: 
 CS Login: kenren98
-YorkU email address: ken.ren98@gmail.com
+YorkU email address: 
 */
 #define MAXARGU_SIZE 40
 
